@@ -6,6 +6,10 @@ Este repositório contém um currículo desenvolvido utilizando apenas HTML e CS
 
 - HTML5
 - CSS3
+- JavaScript
+- Bootstrap
+- AOS (Animate On Scroll)
+- Font Awesome
 
 ## 📄 O que você encontrará
 
